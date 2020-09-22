@@ -17,3 +17,5 @@ while True:
     if count >= total:
         print('您的5次机会已经用完，请再次尝试吧！')
         break
+
+print("Haha!")
